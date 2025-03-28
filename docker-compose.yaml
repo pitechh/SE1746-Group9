@@ -1,0 +1,49 @@
+version: "3.8"
+
+services:
+  db:
+    build:
+      context: ./db
+      dockerfile: Dockerfile
+    container_name: db
+    ports:
+      - "1433:1433"
+    networks:
+      - app_network
+    restart: always
+    environment:
+      SA_PASSWORD: "Adminxyz22#"
+      ACCEPT_EULA: "Y"
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: api
+    depends_on:
+      - db
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ConnectionStrings__DefaultConnection: "Server=db;Database=ConferenceManagement;User Id=sa;Password=Adminxyz22#;TrustServerCertificate=True"
+    ports:
+      - "7171:7171"
+    networks:
+      - app_network
+    restart: always
+
+  client:
+    build:
+      context: ./react-app
+      dockerfile: Dockerfile
+    container_name: frontend
+    depends_on:
+      - api
+    ports:
+      - "3010:3000"
+    networks:
+      - app_network
+    restart: always
+
+networks:
+  app_network:
+    driver: bridge

@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Save\\conference-management-docker-host\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\controllers\\conferencehostingregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\controllers\\conferencehostingregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\controllers\\conferenceregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\controllers\\conferenceregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\conferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\conferenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\registrationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\registrationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\controllers\\conferencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\controllers\\conferencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\conferencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\conferencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\conferencehostingregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\conferencehostingregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\controllers\\delegatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\controllers\\delegatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\generalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\delegateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\delegateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\conferencehostingregistrationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\conferencehostingregistrationrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\genericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\genericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\conference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\controllers\\conferencerollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\controllers\\conferencerollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\delegatesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\delegatesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\conferencemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\conferencemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\conferencerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\conferencerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\conferencerolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\conferencerolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\delegateconferencerolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\delegateconferencerolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\dao\\repositories\\delegatesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\dao\\repositories\\delegatesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\delegateconferenceroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\delegateconferenceroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\conferenceroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\conferenceroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\dto\\conferencehostingregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\dto\\conferencehostingregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\conferencehostingregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\conferencehostingregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\constants\\registationstatusconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\constants\\registationstatusconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\delegateconferencerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\delegateconferencerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\conferenceroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\conferenceroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\services\\delegateconferenceroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\services\\delegateconferenceroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|d:\\save\\conference-management-docker-host\\api\\conferencesmanagement\\data\\entities\\conferencerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46BE464-399F-D44C-D1E7-A854AFD97E5D}|ConferencesManagement\\ConferencesManagementAPI.csproj|solutionrelative:conferencesmanagement\\data\\entities\\conferencerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConferenceController.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceController.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Controllers\\ConferenceController.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceController.cs",
+              "RelativeToolTip": "ConferencesManagement\\Controllers\\ConferenceController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConferenceRegistrationController.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceRegistrationController.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Controllers\\ConferenceRegistrationController.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceRegistrationController.cs",
+              "RelativeToolTip": "ConferencesManagement\\Controllers\\ConferenceRegistrationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wMoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:09:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConferenceService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\ConferenceService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\ConferenceService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:34:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\RegistrationService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:38:02.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\RegistrationRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\RegistrationRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\RegistrationRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\RegistrationRepositories.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:31:27.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConferenceHostingRegistrationController.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceHostingRegistrationController.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Controllers\\ConferenceHostingRegistrationController.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceHostingRegistrationController.cs",
+              "RelativeToolTip": "ConferencesManagement\\Controllers\\ConferenceHostingRegistrationController.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAIwBUBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:05:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConferenceDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\ConferenceDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\ConferenceDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConferenceHostingRegistrationService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceHostingRegistrationService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\ConferenceHostingRegistrationService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceHostingRegistrationService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\ConferenceHostingRegistrationService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:43:48.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelegatesController.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\DelegatesController.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Controllers\\DelegatesController.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\DelegatesController.cs",
+              "RelativeToolTip": "ConferencesManagement\\Controllers\\DelegatesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:29:31.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneralResponseDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\GeneralResponseDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\GeneralResponseDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\GeneralResponseDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\GeneralResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:00:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DelegateService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\DelegateService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\DelegateService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\DelegateService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\DelegateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:23:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConferenceHostingRegistrationRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceHostingRegistrationRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\ConferenceHostingRegistrationRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceHostingRegistrationRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\ConferenceHostingRegistrationRepositories.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:42:48.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Program.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Program.cs",
+              "RelativeToolTip": "ConferencesManagement\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwH8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:40:40.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\GenericRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\GenericRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\GenericRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\GenericRepositories.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAASwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:31:22.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Delegate.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\Delegate.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Delegate.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\Delegate.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conference.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Conference.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\Conference.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Conference.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\Conference.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:13:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConferenceRollController.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceRollController.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Controllers\\ConferenceRollController.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Controllers\\ConferenceRollController.cs",
+              "RelativeToolTip": "ConferencesManagement\\Controllers\\ConferenceRollController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:11:03.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DelegatesDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\DelegatesDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\DelegatesDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\DelegatesDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\DelegatesDTO.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAArwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConferenceManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceManagementDbContext.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\ConferenceManagementDbContext.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceManagementDbContext.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\ConferenceManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:17:42.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConferenceRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\ConferenceRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\ConferenceRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:30:48.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConferenceRoleRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceRoleRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\ConferenceRoleRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\ConferenceRoleRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\ConferenceRoleRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:31:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DelegateConferenceRoleRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\DelegateConferenceRoleRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\DelegateConferenceRoleRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\DelegateConferenceRoleRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\DelegateConferenceRoleRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:31:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DelegatesRepositories.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\DelegatesRepositories.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\DAO\\Repositories\\DelegatesRepositories.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\DAO\\Repositories\\DelegatesRepositories.cs",
+              "RelativeToolTip": "ConferencesManagement\\DAO\\Repositories\\DelegatesRepositories.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:35:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\AuthService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:38:05.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DelegateConferenceRoleDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\DelegateConferenceRoleDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\DelegateConferenceRoleDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\DelegateConferenceRoleDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\DelegateConferenceRoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConferenceRoleDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceRoleDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\ConferenceRoleDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceRoleDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\ConferenceRoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\AuthDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\AuthDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\AuthDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:10:07.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Registration.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\Registration.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\Registration.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:53.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConferenceHostingRegistrationDTO.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceHostingRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\DTO\\ConferenceHostingRegistrationDTO.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\DTO\\ConferenceHostingRegistrationDTO.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\DTO\\ConferenceHostingRegistrationDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:53:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Utils\\MappingProfile.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "ConferencesManagement\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:25:40.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConferenceHostingRegistration.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceHostingRegistration.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\ConferenceHostingRegistration.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceHostingRegistration.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\ConferenceHostingRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:23:06.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegistationStatusConstants.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Constants\\RegistationStatusConstants.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Constants\\RegistationStatusConstants.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Constants\\RegistationStatusConstants.cs",
+              "RelativeToolTip": "ConferencesManagement\\Constants\\RegistationStatusConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:56:26.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DelegateConferenceRole.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\DelegateConferenceRole.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\DelegateConferenceRole.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\DelegateConferenceRole.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\DelegateConferenceRole.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConferenceRoleService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceRoleService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\ConferenceRoleService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\ConferenceRoleService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\ConferenceRoleService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:35:05.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DelegateConferenceRoleService.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\DelegateConferenceRoleService.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Services\\DelegateConferenceRoleService.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Services\\DelegateConferenceRoleService.cs",
+              "RelativeToolTip": "ConferencesManagement\\Services\\DelegateConferenceRoleService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:34:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\SystemRole.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\SystemRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:56.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConferenceRole.cs",
+              "DocumentMoniker": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceRole.cs",
+              "RelativeDocumentMoniker": "ConferencesManagement\\Data\\Entities\\ConferenceRole.cs",
+              "ToolTip": "D:\\Save\\conference-management-docker-host\\api\\ConferencesManagement\\Data\\Entities\\ConferenceRole.cs",
+              "RelativeToolTip": "ConferencesManagement\\Data\\Entities\\ConferenceRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:40.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
